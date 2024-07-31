@@ -19,8 +19,9 @@ This repository contains a RESTful API built using the Gin framework and GORM fo
 
 1. Clone the repository:
 
-   ```sh
+   ```
    git clone https://github.com/muthukumar89uk/gin-RESTAPI-postgres-gorm.git
+   ```
 Click here to directly [download it](https://github.com/muthukumar89uk/gin-RESTAPI-postgres-gorm/zipball/master).
 
 ## Install dependencies:
@@ -32,7 +33,8 @@ Click here to directly [download it](https://github.com/muthukumar89uk/gin-RESTA
    
        ```
           go run .
-2. The server will start on `http://localhost:8080`.
+       ```   
+  2. The server will start on `http://localhost:8080`.
 
 ## API Endpoints
  

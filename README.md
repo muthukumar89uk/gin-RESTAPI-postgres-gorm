@@ -20,9 +20,8 @@ This repository contains a RESTful API built using the Gin framework and GORM fo
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/gin-gorm-rest-api.git
-   cd gin-gorm-rest-api
-Click here to directly [download it](https://github.com/muthukumar89uk/go-chatapp-websocket/zipball/master).
+   git clone https://github.com/muthukumar89uk/gin-RESTAPI-postgres-gorm.git
+Click here to directly [download it](https://github.com/muthukumar89uk/gin-RESTAPI-postgres-gorm/zipball/master).
 
 ## Install dependencies:
 
